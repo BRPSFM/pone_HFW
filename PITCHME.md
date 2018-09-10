@@ -1,6 +1,7 @@
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
-## Common English words: P1
-
+@snap[west]
+<h2>Common English words: P1</h2>
+@snapend
 
 ---
 Unit 1
