@@ -1,7 +1,7 @@
----
+---?image=assets/sun.jpeg&position=right&size=50% 100%
 ## Common English words: P1
 
-(include an image)
+
 ---
 Unit 1
 
